@@ -6,9 +6,13 @@ The InterStopwatch app is a simple stopwatch application developed for Android u
 ## Features
 
 •	Start/Stop Button: Initiates and stops the stopwatch.
+
 •	Lap Button: Records lap times and displays them in a list.
+
 •	Reset Button: Resets the stopwatch and clears lap times.
+
 •	Lap Time List: Displays a list of recorded lap times.
+
 •	Real-time Display: The elapsed time is displayed in the format HH:MM:SS.
 
 
@@ -31,6 +35,7 @@ How to Use
 ## Dependencies
 
 •	AndroidX Library
+
 •	Google Material Components Library
 
 
